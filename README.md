@@ -16,3 +16,4 @@ This repository is capturing my work accomplished and practiced through the [Kub
 `kubectl apple -f mongo-express.yaml`
 6. You can access MongoDB Express with:
 `minikube service mongo-express-service`
+
